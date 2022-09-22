@@ -1,4 +1,4 @@
-<div style="display: inline">
+<div style="display: inline-block">
   <a href="https://github.com/danrodriguesy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danrodriguesy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=3E91EE"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danrodriguesy&layout=compact&langs_count=7&theme=dracula&title_color=3E91EE"/>
