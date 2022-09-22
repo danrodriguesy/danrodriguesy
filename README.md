@@ -1,6 +1,6 @@
 <div style="display: inline-block">
   <a href="https://github.com/danrodriguesy">
-  <img style="width: 45%; margin-right: 10px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=danrodriguesy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=3E91EE"/>
+  <img style="width: 45%; margin-right: 15px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=danrodriguesy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=3E91EE"/>
   <img style="width: 45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danrodriguesy&layout=compact&langs_count=7&theme=dracula&title_color=3E91EE"/>
 </div>
 <div align="center"><br>
